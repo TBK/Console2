@@ -1,4 +1,12 @@
-Console2
-========
+Console2 is an enhancement Windows Console.
 
-Console is a Windows console window enhancement. Console features include: multiple tabs, text editor-like text selection, different background types, alpha and color-key transparency, configurable font, different window styles..
+
+Features
+========
+- Multiple tabs
+- Text editor-like text selection
+- Different background types
+- Alpha and color-key transparency
+- Configurable font
+- Different window styles
+- and more
